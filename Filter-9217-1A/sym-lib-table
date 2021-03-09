@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name WE_691309310008)(type Legacy)(uri ${KIPRJMOD}/../libs/WuerthElectronic_691309310008.pretty/691309310008.lib)(options "")(descr ""))
+  (lib (name WE_691309310012)(type Legacy)(uri ${KIPRJMOD}/../libs/WuerthElectronic_691309310012.pretty/691309310012.lib)(options "")(descr ""))
+  (lib (name PhoenixContact_1898525)(type Legacy)(uri ${KIPRJMOD}/../libs/PhoenixContact_1898525.pretty/1898525.lib)(options "")(descr ""))
+)

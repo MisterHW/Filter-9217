@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name PhoenixContact_1898525)(type KiCad)(uri ${KIPRJMOD}/../libs/PhoenixContact_1898525.pretty)(options "")(descr ""))
+  (lib (name WE_691309310008)(type KiCad)(uri ${KIPRJMOD}/../libs/WuerthElectronic_691309310008.pretty)(options "")(descr ""))
+  (lib (name WE_691309310012)(type KiCad)(uri ${KIPRJMOD}/../libs/WuerthElectronic_691309310012.pretty)(options "")(descr ""))
+)

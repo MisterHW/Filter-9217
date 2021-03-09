@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1898525
+D HEADER NOMINAL CURRENT 8A RATED VOLTAGE (III/2)160V
+K
+F https://www.mouser.com/datasheet/2/324/898525-1453654.pdf
+$ENDCMP
+#
+#End Doc Library
